@@ -29,4 +29,5 @@ galaxy_info:
     - security
     - system
 
-dependencies: []
+dependencies:
+  - { role: nginx }
